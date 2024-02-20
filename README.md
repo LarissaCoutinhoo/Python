@@ -2,13 +2,13 @@
 
 Bem-vindo ao meu repositório de estudos em Python!
 
-![Python](https://media.giphy.com/media/2kWlj3KpU2LCK/giphy.gif)
+![Galaxy](https://apod.nasa.gov/apod/image/2401/Pleiades_Stocks_960.jpg)
 
 ## Estrutura do Repositório
 
 - /exercicios: Este diretório contém os exercícios que estou realizando durante o aprendizado.
 - /projetos: Aqui estão os projetos que desenvolvi para aplicar o que aprendi.
-- /recursos: Recursos úteis como tutoriais, artigos e links para documentação.
+- /recursos: Recursos úteis como tutoriais, anotações e links.
 
 ## Como Contribuir
 
