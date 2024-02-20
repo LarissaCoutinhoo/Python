@@ -2,8 +2,6 @@
 
 Bem-vindo ao meu repositório de estudos em Python!
 
-![Galaxy](https://apod.nasa.gov/apod/image/2401/Pleiades_Stocks_960.jpg)
-
 ## Estrutura do Repositório
 
 - /exercicios: Este diretório contém os exercícios que estou realizando durante o aprendizado.
